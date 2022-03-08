@@ -12,7 +12,7 @@ The simple code to make `waterdrop-UI` using HTML & CSS.
 ### Output Screenshot
 <details><summary><b>Output</b></summary>
   <p align="center">
-    <a href="Outputs/output.png"><img src="https://user-images.githubusercontent.com/85709371/154668390-fd318928-62e0-461a-885e-e5af526c0695.png" alt="output"></a>
+    <a href="Outputs/output.png"><img src="https://user-images.githubusercontent.com/85709371/148736885-04558983-1b29-453e-b508-6e862aa91943.png" alt="output"></a>
   </p>
 </details>
 
@@ -20,9 +20,3 @@ The simple code to make `waterdrop-UI` using HTML & CSS.
 
 ## *Author Name*
 [Vikrant](https://github.com/thevkrant)
-
-
-# 
-<!-- Visit <a href="https://thevkrant.github.io/waterdrop-UI/">Here</a> -->
-
-![Water Drops]()
